@@ -3,5 +3,5 @@
 ✒️C & C++ Programming Assignment with 
 
 ✅Handwritten Notes
-✅Handwritten Code and 
+✅Handwritten Codes and 
 ✅Execution Screenshots
