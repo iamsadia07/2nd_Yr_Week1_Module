@@ -1,2 +1,2 @@
 # 2nd_Yr_Week1_Module
-C &amp; C++ Programming assignment with Handwritten notes, Handwritten Codes and Execution screenshot .
+✒️C & C++ Programming Assignment with Handwritten Notes, Handwritten Code, and Execution Screenshots."
